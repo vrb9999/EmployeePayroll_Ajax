@@ -1,2 +1,2 @@
-create database EmployeePayroll_Ajax
-use EmployeePayroll_Ajax
+create database EmpPayroll_Ajax
+use EmpPayroll_Ajax
